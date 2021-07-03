@@ -48,7 +48,7 @@ info: [APP] initialized SUCCESSFULLY
 **All Requests should be accompanied by the 'Content-Type : application/json' in the header**
 * Create a new user
 ```
-URL - http://localhost:4095/users
+URL - http://localhost:4095/api/users
 Method - POST
 Authentication - None
 Body- {
